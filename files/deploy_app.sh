@@ -10,7 +10,7 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Meow World!</h2></center>
+  <center><h2>Nicholas Cage Appreciation Site</h2></center>
   C'mon ${PREFIX}'s app; let's get<br />
   <marquee><h1>S I C K E N I N G</h1></marquee>
   <!-- END -->
